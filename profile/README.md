@@ -2,7 +2,7 @@
 
 Just the following languages to use are allowed to be used in this organization:
 
-- [Zsh](https://en.wikipedia.org/wiki/Z_shell): shell scripts those don't
+- [Zsh](https://en.wikipedia.org/wiki/Z_shell): automation tools those don't
   require handling YAML, JSON or TOML
 - [Go](https://en.wikipedia.org/wiki/Go_\(programming_language): client and
   automation tools when shell scripts are not enough
