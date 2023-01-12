@@ -2,8 +2,9 @@
 
 Just the following languages to use are allowed to be used in this organization:
 
-- [Zsh](https://en.wikipedia.org/wiki/Z_shell): automation tools those don't
+- [Bash](https://en.wikipedia.org/wiki/Bash_\(Unix_shell\)): automation tools those don't
   require handling YAML, JSON or TOML
+  - [AWK](https://en.wikipedia.org/wiki/AWK): embedded code inside shell scripts
 - [Go](https://en.wikipedia.org/wiki/Go_\(programming_language): client and
   automation tools when shell scripts are not enough
 - [TypeScript](https://en.wikipedia.org/wiki/TypeScript): Visual Studio Code
