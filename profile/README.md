@@ -15,7 +15,7 @@ Just the following languages to use are allowed to be used in this organization:
   a customizable rendering.
 - Intead of trying to rely on numerous clients we develop and use only one
   client. It doesn't mean that third-party clients can't be created. But such
-  clients are not supported officially and don't depend on third-party client
+  clients are not supported officially and we don't depend on third-party client
   issues.
 - Instead of trying to follow unwritten and unclear rules we standardize
   everything and mandate anybody to use this convention.
