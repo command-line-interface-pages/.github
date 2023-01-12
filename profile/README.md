@@ -12,3 +12,13 @@ Just the following languages to use are allowed to be used in this organization:
 - Instead of using primitive placeholder syntax we prefer feature rich one with a customizable rendering.
 - Intead of trying to rely on numerous clients we develop and use only one client.
 - Instead of trying to follow unwritten and unclear rules we standardize everything and mandate anybody to use this convention.
+
+# Expectations from the end user
+
+We assume that the end user is already familiar with some programming stuff. To
+be more precise we expect all page syntax to be understandable by default no
+matter it what. When we encounter some repetetive problem we standardize a way
+to solve it. We don't handle each page specificly. It means that all page are
+written in the same way and syntax may be slithtly harder to read than in TlDr.
+If you are not that kind of user who prefers standardization over readability
+(even the last one is kept okay) `TlDr` project may be a better choise.
