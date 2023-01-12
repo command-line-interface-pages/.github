@@ -2,9 +2,10 @@
 
 Just the following languages to use are allowed to be used in this organization:
 
-- [Zsh](https://en.wikipedia.org/wiki/Z_shell): shell scripts
+- [Zsh](https://en.wikipedia.org/wiki/Z_shell): shell scripts those don't
+  require handling YAML, JSON or TOML
 - [Go](https://en.wikipedia.org/wiki/Go_\(programming_language): client and
-  automation tools
+  automation tools when shell scripts are not enough
 - [TypeScript](https://en.wikipedia.org/wiki/TypeScript): Visual Studio Code
   extensions
 - [Emacs Lisp](https://en.wikipedia.org/wiki/Emacs_Lisp): Emacs extensions
