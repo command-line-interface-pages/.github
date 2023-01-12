@@ -26,4 +26,5 @@ matter it what. When we encounter some repetetive problem we standardize a way
 to solve it. We don't handle each page specificly. It means that all page are
 written in the same way and syntax may be slithtly harder to read than in TlDr.
 If you are not that kind of user who prefers standardization over readability
-(even the last one is kept okay) `TlDr` project may be a better choise.
+(even the last one is kept okay) [TlDr](https://github.com/tldr-pages) project
+may be a better choise.
