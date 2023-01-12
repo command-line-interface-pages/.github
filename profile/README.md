@@ -14,7 +14,9 @@ Just the following languages to use are allowed to be used in this organization:
 - Instead of using primitive placeholder syntax we prefer feature rich one with
   a customizable rendering.
 - Intead of trying to rely on numerous clients we develop and use only one
-  client.
+  client. It doesn't mean that third-party clients can't be created. But such
+  clients are not supported officially and don't depend on third-party client
+  issues.
 - Instead of trying to follow unwritten and unclear rules we standardize
   everything and mandate anybody to use this convention.
 
