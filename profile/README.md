@@ -2,13 +2,13 @@
 
 Just the following languages to use are allowed to be used in this organization:
 
-- [Bash](https://en.wikipedia.org/wiki/Bash_\(Unix_shell\)): automation tools those don't
-  require handling YAML, JSON or TOML
-  - [AWK](https://en.wikipedia.org/wiki/AWK): embedded code inside shell scripts
+- [Bash](https://en.wikipedia.org/wiki/Bash_\(Unix_shell\)) with [sed](https://en.wikipedia.org/wiki/Sed) and [jq](https://en.wikipedia.org/wiki/Jq_\(programming_language\)): continuous integration
+  Note that we have client written in Bash, which will be rewritten in Go to conform our policy.
 - [Go](https://en.wikipedia.org/wiki/Go_\(programming_language): client and
   automation tools when shell scripts are not enough
 - [TypeScript](https://en.wikipedia.org/wiki/TypeScript): Visual Studio Code
   extensions
+- [Micro](https://en.wikipedia.org/wiki/Lua_\(programming_language\)): Micro extensions
 - [Emacs Lisp](https://en.wikipedia.org/wiki/Emacs_Lisp): Emacs extensions
 
 # Differences from TlDr
