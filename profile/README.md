@@ -2,7 +2,7 @@
 
 Just the following languages to use are allowed to be used in this organization:
 
-- [Bash](https://en.wikipedia.org/wiki/Bash_\(Unix_shell\)) with [sed](https://en.wikipedia.org/wiki/Sed) and [jq](https://en.wikipedia.org/wiki/Jq_\(programming_language\)): continuous integration
+- [Bash](https://en.wikipedia.org/wiki/Bash_\(Unix_shell\)) with [sed](https://en.wikipedia.org/wiki/Sed) and [jq](https://en.wikipedia.org/wiki/Jq_\(programming_language\)): continuous integration  
   Note that we have client written in Bash, which will be rewritten in Go to conform our policy.
 - [Go](https://en.wikipedia.org/wiki/Go_\(programming_language): client and
   automation tools when shell scripts are not enough
