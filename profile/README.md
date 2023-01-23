@@ -8,7 +8,7 @@ Just the following languages to use are allowed to be used in this organization:
   automation tools when shell scripts are not enough
 - [TypeScript](https://en.wikipedia.org/wiki/TypeScript): Visual Studio Code
   extensions
-- [Micro](https://en.wikipedia.org/wiki/Lua_\(programming_language\)): Micro extensions
+- [Lua](https://en.wikipedia.org/wiki/Lua_\(programming_language\)): Micro extensions
 - [Emacs Lisp](https://en.wikipedia.org/wiki/Emacs_Lisp): Emacs extensions
 
 # Differences from TlDr
