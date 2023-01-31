@@ -1,3 +1,5 @@
+> :warning: Project will be renamed to CLIP, [C]ommand [L]ine [I]nterface [P]ages.
+
 # Used languages
 
 Just the following languages to use are allowed to be used in this organization:
