@@ -1,9 +1,12 @@
 # About
 
-Tired of non-standardized [TlDr](https://github.com/tldr-pages/tldr) pages and lack of page parsability? Then this project is for you!
+Want something more thatn TlDr? Tired of non-standardized [TlDr](https://github.com/tldr-pages/tldr) pages and lack of page parsability?
+Want be able to explore file system hierichy explanations? Then this project is for you!
 Write pages in Markdown-like language, or YAML or even TOML and use one unified syntax for them.
 
-Get more details:
+## More information
+
+:heavy_check_mark: Get more details:
 
 ![image](https://user-images.githubusercontent.com/42812113/219330370-4ac69b1e-b5bd-46c1-8b40-bc4e6e3c17dc.png)
 
@@ -12,6 +15,14 @@ then [TlDr](https://github.com/tldr-pages/tldr) can provide:
 ![image](https://user-images.githubusercontent.com/42812113/219330632-fa110dbf-91c8-41fd-84cc-8338b74f94c8.png)
 
 See not just a concrete example, but also what kind of arguments and how many of them are expected. :smile_cat:
+
+## Directory explanations
+
+:heavy_check_mark: Read about directories and files in them:
+
+![image](https://user-images.githubusercontent.com/42812113/219865611-ae3e4b1b-10f2-4532-bf8e-b6b1d0db7733.png)
+
+while it's impossible with [TlDr](https://github.com/tldr-pages/tldr).
 
 # Differences from TlDr
 
