@@ -9,3 +9,8 @@ We assume that the end user is already familiar with some programming stuff. To
 be more precise we expect all page syntax to be understandable by default no
 matter it what. When we encounter some repetetive problem we standardize a way
 to solve it. We don't handle each page specificly.
+
+## Contributions :hammer_and_wrench:
+
+Each repository contains link to it's contributing guide where you can learn how
+to get started with writing your own pages, themes or tools.
