@@ -13,4 +13,5 @@ to solve it. We don't handle each page specificly.
 ## Contributions :hammer_and_wrench:
 
 Each repository contains link to it's contributing guide where you can learn how
-to get started with writing your own pages, themes or tools.
+to get started with writing your own pages, [themes](https://github.com/command-line-interface-pages/themes)
+or [tools](https://github.com/command-line-interface-pages/v2-tooling).
