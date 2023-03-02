@@ -15,3 +15,7 @@ to solve it. We don't handle each page specificly.
 Each repository contains link to it's contributing guide where you can learn how
 to get started with writing your own pages, [themes](https://github.com/command-line-interface-pages/themes)
 or [tools](https://github.com/command-line-interface-pages/v2-tooling).
+
+## Current goals :checkered_flag:
+
+Current goals are listed in each repo separately like [here](https://github.com/command-line-interface-pages/cli-pages#current-goals-checkered_flag).
