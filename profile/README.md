@@ -3,6 +3,9 @@
 Want to learn [command syntax](https://github.com/command-line-interface-pages/cli-pages), [hierichy structure](https://github.com/command-line-interface-pages/directory-pages) and command configs? Then this
 project is for you! Don't just copy-paste things, learn them. :smile:
 
+> :bell: Note for programmers: all pages are written in a [parsable way](https://github.com/command-line-interface-pages/syntax/blob/main/base.md) so
+> it's possible automatically extract some data from them to handle it.
+
 ## Expectations from the end user :books:
 
 We assume that the end user is already familiar with some programming stuff. To
