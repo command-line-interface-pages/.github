@@ -25,4 +25,4 @@ Current goals are listed in each repo separately like [here](https://github.com/
 
 ## Supported by :heart_eyes:
 
-- [TlDr](https://github.com/tldr-pages/tldr/blob/main/pages/common/clip-view.md)
+[![tldr](https://img.shields.io/badge/TlDr-a32236?labelColor=ed425c&style=flat-square)](https://github.com/tldr-pages/tldr/blob/main/pages/common/clip-view.mds)
