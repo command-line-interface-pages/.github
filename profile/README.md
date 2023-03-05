@@ -6,6 +6,18 @@ project is for you! Don't just copy-paste things, learn them. :smile:
 > :bell: Note for programmers: all pages are written in a [parsable way](https://github.com/command-line-interface-pages/syntax/blob/main/base.md) so
 > it's possible automatically extract some data from them to handle it.
 
+## Get started :flashlight:
+
+Via the following command you can install our page [render](https://github.com/command-line-interface-pages/v2-tooling/tree/main/clip-view):
+
+```sh
+temp="$(mktemp)"
+wget -O "$temp" https://raw.githubusercontent.com/command-line-interface-pages/v2-tooling/main/clip-view/makefile
+make -f "$temp" remote-install
+```
+
+To virefy whether if successfully installed type `clip-view --version`.
+
 ## Expectations from the end user :books:
 
 We assume that the end user is already familiar with some programming stuff. To
