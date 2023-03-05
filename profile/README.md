@@ -6,7 +6,7 @@ project is for you! Don't just copy-paste things, learn them. :smile:
 > :bell: Note for programmers: all pages are written in a [parsable way](https://github.com/command-line-interface-pages/syntax/blob/main/base.md) so
 > it's possible automatically extract some data from them to handle it.
 
-## Get started :flashlight:
+## Installation :smile:
 
 Via the following command you can install our page [render](https://github.com/command-line-interface-pages/v2-tooling/tree/main/clip-view):
 
