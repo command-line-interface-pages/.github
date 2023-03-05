@@ -25,4 +25,4 @@ Current goals are listed in each repo separately like [here](https://github.com/
 
 ## Supported by :heart_eyes:
 
-[![tldr](https://img.shields.io/badge/TlDr-a32236?labelColor=ed425c&style=flat-square)](https://github.com/tldr-pages/tldr/blob/main/pages/common/clip-view.mds)
+[![tldr](https://img.shields.io/badge/TlDr-a32236?labelColor=ed425c&style=flat-square)](https://github.com/tldr-pages/tldr/blob/main/pages/common/clip-view.mds) [![cheat](https://img.shields.io/badge/Cheat-a32236?labelColor=ed425c&style=flat-square)](https://github.com/cheat/cheatsheets/pull/226) [![cheatsheets](https://img.shields.io/badge/Cheatsheets-a32236?labelColor=ed425c&style=flat-square)](hhttps://github.com/rstacruz/cheatsheets/pull/1953)
