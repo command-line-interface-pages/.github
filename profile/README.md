@@ -22,3 +22,7 @@ or [tools](https://github.com/command-line-interface-pages/v2-tooling).
 ## Current goals :checkered_flag:
 
 Current goals are listed in each repo separately like [here](https://github.com/command-line-interface-pages/cli-pages#current-goals-checkered_flag).
+
+## Supported by :heart_eyes:
+
+- [TlDr](https://github.com/tldr-pages/tldr/blob/main/pages/common/clip-view.md)
