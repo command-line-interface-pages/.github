@@ -1,5 +1,7 @@
 # About :information_source:
 
+[![chat](https://img.shields.io/badge/chat-a32236?labelColor=ed425c&style=flat-square)](https://matrix.to/#/#clip-project:matrix.org)
+
 Want to learn [command syntax](https://github.com/command-line-interface-pages/cli-pages), [hierichy structure](https://github.com/command-line-interface-pages/directory-pages) and command configs? Then this
 project is for you! Don't just copy-paste things, learn them. :smile:
 
