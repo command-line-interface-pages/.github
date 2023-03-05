@@ -18,6 +18,11 @@ make -f "$temp" remote-install
 
 To virefy whether if successfully installed type `clip-view --version`.
 
+## Uninstallation :disappointed:
+
+All tools are being installed in `/home/$USER/.local/bin` directory. So to remove
+them just run `rm` command like `rm /home/$(USER)/.local/bin/clip-view`.
+
 ## Expectations from the end user :books:
 
 We assume that the end user is already familiar with some programming stuff. To
