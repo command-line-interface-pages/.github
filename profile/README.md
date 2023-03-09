@@ -29,7 +29,7 @@ them just run `rm` command like `rm /home/$USER/.local/bin/clip-view`.
 
 We assume that the end user is already familiar with some programming stuff. To
 be more precise we expect all page syntax to be understandable by default no
-matter what. When we encounter some repetetive problem we standardize a way
+matter what. When we encounter some repetitive problem we standardize a way
 to solve it. We don't handle each page specifically.
 
 ## Contributions :hammer_and_wrench:
