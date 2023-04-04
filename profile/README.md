@@ -18,7 +18,7 @@ wget -O "$temp" https://raw.githubusercontent.com/command-line-interface-pages/v
 make -f "$temp" remote-install
 ```
 
-To virefy whether if successfully installed type `clip-view --version`.
+To verify whether if successfully installed type `clip-view --version`.
 
 ## Uninstallation :disappointed:
 
@@ -29,12 +29,12 @@ them just run `rm` command like `rm /home/$USER/.local/bin/clip-view`.
 
 We assume that the end user is already familiar with some programming stuff. To
 be more precise we expect all page syntax to be understandable by default no
-matter it what. When we encounter some repetetive problem we standardize a way
-to solve it. We don't handle each page specificly.
+matter what. When we encounter some repetitive problem we standardize a way
+to solve it. We don't handle each page specifically.
 
 ## Contributions :hammer_and_wrench:
 
-Each repository contains link to it's contributing guide (named CONTRIBUTING.md)
+Each repository contains a link to its contributing guide (named CONTRIBUTING.md)
 where you can learn how to get started with writing your own pages, [themes](https://github.com/command-line-interface-pages/themes)
 or [tools](https://github.com/command-line-interface-pages/v2-tooling).
 
