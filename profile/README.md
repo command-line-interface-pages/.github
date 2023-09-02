@@ -2,11 +2,11 @@
 
 [![chat](https://img.shields.io/badge/chat-a32236?labelColor=ed425c&style=flat-square)](https://matrix.to/#/#clip-project:matrix.org)
 
-Want to learn [command syntax](https://github.com/command-line-interface-pages/cli-pages), [hierichy structure](https://github.com/command-line-interface-pages/directory-pages) and command configs? Then this
+Want to learn [command syntax](https://github.com/command-line-interface-pages/cli-pages), [hierarchy structure](https://github.com/command-line-interface-pages/directory-pages) and command configs? Then this
 project is for you! Don't just copy-paste things, learn them. :smile:
 
 > :bell: Note for programmers: all pages are written in a [parsable way](https://github.com/command-line-interface-pages/syntax/blob/main/base.md) so
-> it's possible automatically extract some data from them to handle it.
+> it's possible to automatically extract some data from them to handle it.
 
 ## Installation :smile:
 
@@ -22,8 +22,8 @@ To verify whether if successfully installed type `clip-view --version`.
 
 ## Uninstallation :disappointed:
 
-All tools are being installed in `/home/$USER/.local/bin` directory. So to remove
-them just run `rm` command like `rm /home/$USER/.local/bin/clip-view`.
+All tools are being installed in the `/home/$USER/.local/bin` directory. So to remove
+them just run the `rm` command like `rm /home/$USER/.local/bin/clip-view`.
 
 ## Expectations from the end user :books:
 
